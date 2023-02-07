@@ -10,10 +10,10 @@ Esta página fue diseñada en Mobile First, esta página simula una tienda en l�
 <br>
 Los datos se consumen desde **fakestoreapi.com**
 
-## 🧰 Desarrollada en React JS utilizando fetch async await, useReducer, custom hooks y Tailwind CSS.
+### 🧰 Desarrollada en React JS utilizando fetch async await, useReducer, custom hooks y Tailwind CSS.
 
 
-## 📷 Screenshot
+### 📷 Screenshot
 
 <div align="center" >
 
