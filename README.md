@@ -6,7 +6,7 @@
 
 ## 📣 Descripción 
 
-Esta página fue diseñada en Mobile First, esta página simula una tienda en línea donde se pueden filtar productos por categorias y agregar a un carrito de compras los productos preferidos, una vez agregados se puede ver en una ventana modal los productos agregados donde se puede aumentar o disminuir la cantidad de productos a comprar.
+Esta página fue diseñada en Mobile First, esta página simula una tienda en línea donde se pueden filtar productos por categorias y agregar a un carrito de compras los productos preferidos, una vez agregados se puede ver en una ventana modal los productos agregados donde se puede aumentar o disminuir la cantidad de productos a comprar. </br>
 Los datos se consumen desde "https://fakestoreapi.com"
 
 ## 🧰 Desarrollada en React JS utilizando fetch async await, useReducer, custom hooks y Tailwind CSS.
